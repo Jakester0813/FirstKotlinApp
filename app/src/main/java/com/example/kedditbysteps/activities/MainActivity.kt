@@ -1,4 +1,4 @@
-package com.example.kedditbysteps
+package com.example.kedditbysteps.activities
 
 import android.content.Context
 import android.support.v7.app.AppCompatActivity
@@ -9,6 +9,7 @@ import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.util.Log
 import android.widget.TextView
+import com.example.kedditbysteps.R
 
 class MainActivity : AppCompatActivity() {
 
